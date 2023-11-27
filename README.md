@@ -30,4 +30,4 @@ By addressing these aspects, the Weather App can become even more user-friendly 
 
 
 ## View it live
-https://filzas-weather-app.netlify.app/
+Experience the Weather App live: [Filza's music App ](https://filzas-weather-app.netlify.app/)
