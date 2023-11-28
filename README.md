@@ -2,6 +2,9 @@
 
 In the third week of the Technigo React/Redux skill-up course, the assignment involved crafting a weather app utilizing the OpenWeather API. The primary focus was on implementing the app using vanilla JavaScript and working on APIs.
 
+## View it live
+Experience the Weather App live: [Filza's music App ](https://filzas-weather-app.netlify.app/)
+
 ## The Challange
 
 The Weather App leverages two endpoints from the OpenWeather API:
@@ -29,5 +32,4 @@ Continuously improve the codebase by refactoring it. This involves restructuring
 By addressing these aspects, the Weather App can become even more user-friendly and maintainable.
 
 
-## View it live
-Experience the Weather App live: [Filza's music App ](https://filzas-weather-app.netlify.app/)
+
